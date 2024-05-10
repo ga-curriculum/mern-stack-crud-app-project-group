@@ -1,5 +1,7 @@
 # ![MERN Stack CRUD App Project - Group Project Deliverables](./assets/hero.png)
 
+## Contents
+
 ## Project planning deliverable
 
 ### Introduction
@@ -42,7 +44,7 @@ After your project proposal has been approved, you'll need to set up a GitHub re
 
 > 🚨 As a reminder, you should use the same repo or keep all the repos you use for the entire duration of your project to meet the project requirements.
 
-## Deployed app link deliverables
+## Deployed app link deliverable
 
 During project week, you'll deploy your project so that others are able to use it on the internet! You will need to deploy your back-end and front-end applications separately.
 
@@ -75,7 +77,7 @@ Back-end GitHub repo link: <link>
 
 Replacing `<link>` (including the `<` and `>`) with a link to your front-end and back-end GitHub repos.
 
-## Submitting your deployed app link
+### Submitting your deployed app link
 
 Deploy your project by following the guides above. Submit a link to your deployed front-end app below in the following format:
 
