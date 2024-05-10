@@ -47,5 +47,4 @@ Your team will have a maximum of 15 minutes to present your project. While the s
 
 - Discuss the app. Including details about why your team chose to build this app is a nice touch.
 - Use the app! Demo its features, such as CRUD.
-- Briefly show off something unique in your code or a piece of code you're particularly proud of.
 - Share your experience with the project - what was challenging, what did you gain from building this project?
