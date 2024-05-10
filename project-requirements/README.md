@@ -95,9 +95,11 @@ Upon completion of your group's presentation, your instructional team will evalu
 - Immediately after your group's presentation, your instructors may provide your group with feedback that will benefit your project and perhaps other student's projects. The feedback given at this time is not formal feedback and does not indicate whether you or your group passed or failed the project.
 - If there is a specific section of code that you or your group would like an instructor to provide additional feedback on, please ask!
 
-## Individual evaluation
+## Individual contributor requirements
 
 In addition to the group evaluation, you will also be graded individually on this project based on the requirements outlined below. ***It is possible for your group as a whole to pass the project but for you not to pass individually - do not let this happen!***
+
+A printable version of the project requirements can be found [here](../project-requirements/assets/project-requirements.pdf).
 
 ### Git and GitHub
 
