@@ -29,9 +29,13 @@ This project requires an understanding of:
 
 [Project Deployed App Link Deliverable](./project-deployed-app-link-deliverable/README.md)
 
-[tktk Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
+[Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
 
-[tktk Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/13yRHP1ass6AyoptArAqXet07OtHt0DEWgmOA0izapy8/edit)
+[Project Individual Contributor Requirements PDF](./project-individual-contributor-requirements/assets/project-ic-requirements.pdf)
+
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/13yRHP1ass6AyoptArAqXet07OtHt0DEWgmOA0izapy8/edit)
+
+[Project Individual Contributor Requirements Google Sheets](https://docs.google.com/spreadsheets/d/13yRHP1ass6AyoptArAqXet07OtHt0DEWgmOA0izapy8/edit)
 
 ## Internal resources
 

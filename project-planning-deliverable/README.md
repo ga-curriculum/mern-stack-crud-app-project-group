@@ -1,16 +1,18 @@
-# ![MERN Stack CRUD App Project - Group Project Planning Deliverable](./assets/hero.png)
+# ![MERN Stack CRUD App Project - Group Project Deliverables](./assets/hero.png)
 
-## Introduction
+## Project planning deliverable
+
+### Introduction
 
 Planning is vital to build anything more than the most trivial of applications; therefore, this is where you will begin your journey with this project. You shouldn't write any code or set up a GitHub repo for your project until an instructor approves your planning materials.
 
-## Building your planning materials
+### Building your planning materials
 
 Use [Trello](https://trello.com/) for your project planning work. This [video](https://www.youtube.com/watch?v=l3F3l3psqXY) has some helpful tips to get started using Trello if you've never used it before. Check out this [Trello support article](https://support.atlassian.com/trello/docs/changing-the-visibility-of-a-board/) to make your planning materials publicly available.
 
 > 🚨 ***It is vital that you make your project planning publicly accessible; otherwise, no one can see it! Check out this [Trello support article](https://support.atlassian.com/trello/docs/changing-the-visibility-of-a-board/) to learn how!***
 
-## Details
+### Details
 
 You will submit a public Trello board with these project planning details:
 
@@ -30,10 +32,55 @@ An example of an acceptable Trello board submission is shown here:
 
 ![An acceptable initial Trello board.](./assets/example-trello.png)
 
-## Using Trello during project week
+### Using Trello during project week
 
 Some students like to use Trello during project week to keep track of their work. While you're more than welcome to do this, it is not a project requirement, and the method you use to organize your work is ultimately up to you!
 
-## Submitting your planning materials
+## GitHub repo deliverables
 
-Submit a link to your ***publicly visible*** Trello board.
+After your project proposal has been approved, you'll need to set up a GitHub repo for the front-end and back-end of your project.
+
+> 🚨 As a reminder, you should use the same repo or keep all the repos you use for the entire duration of your project to meet the project requirements.
+
+## Deployed app link deliverables
+
+During project week, you'll deploy your project so that others are able to use it on the internet! You will need to deploy your back-end and front-end applications separately.
+
+Follow the [MEN Stack Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/men-stack-deployment/) to deploy your back-end MEN Stack application.
+
+Follow the [React Front-End Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/react-front-end-deployment/) to deploy your front-end React application.
+
+## Submitting your deliverables
+
+Follow the guidelines below to submit your deliverables for this project.
+
+### Submitting your planning materials
+
+Submit a link to your ***publicly visible*** Trello board below in the following format:
+
+```plaintext
+Project planning link: <link>
+```
+
+Replacing `<link>` (including the `<` and `>`) with a link to your project planning materials.
+
+### Submitting your GitHub repo links
+
+Submit a link to the ***public*** GitHub repos that you are using for the front-end and back-end of your MERN Stack CRUD App Project below in the following format:
+
+```plaintext
+Front-end GitHub repo link: <link>
+Back-end GitHub repo link: <link>
+```
+
+Replacing `<link>` (including the `<` and `>`) with a link to your front-end and back-end GitHub repos.
+
+## Submitting your deployed app link
+
+Deploy your project by following the guides above. Submit a link to your deployed front-end app below in the following format:
+
+```plaintext
+Deployed project link: <link>
+```
+
+Replacing `<link>` (including the `<` and `>`) with a link to your deployed front-end app.
