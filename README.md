@@ -29,9 +29,9 @@ This project requires an understanding of:
 
 [Project Individual Contributor Requirements PDF](./project-individual-contributor-requirements/assets/project-ic-requirements.pdf)
 
-[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/13yRHP1ass6AyoptArAqXet07OtHt0DEWgmOA0izapy8/edit)
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1askuVBSGfN6M68ls8TVW6lkZWz35u11mnUiAHor-BlQ/edit)
 
-[Project Individual Contributor Requirements Google Sheets](https://docs.google.com/spreadsheets/d/13yRHP1ass6AyoptArAqXet07OtHt0DEWgmOA0izapy8/edit)
+[Project Individual Contributor Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1BF2UdLvPsov5rJymRlQglcEXGQEppvWEgoYdZJhdoCM/edit)
 
 ## Internal resources
 
