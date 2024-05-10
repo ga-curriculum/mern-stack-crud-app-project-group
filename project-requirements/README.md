@@ -1,81 +1,118 @@
-# ![[tktk Module Name] - Project Requirements](./assets/hero.png)
+# ![MERN Stack CRUD App Project - Group Project Requirements](./assets/hero.png)
 
 ## Overview
 
-tktk Project Description
+For this project, you'll work across the back-end and the front-end to build a full-stack project with a team.
 
-***tktk You will work individually on this project***.
+Your team will build an API on the back-end using Express and Node secured with JWTs. That API will interact with MongoDB to carry out full CRUD on resources.
 
-> ❗️ As a reminder, General Assembly has a zero-plagiarism policy. ***Your project's code must be substantially yours***. Do not copy code from similar projects or other sources. However, using code from the internet to accomplish generic tasks is okay - for example, a line of code that replaces a character at a specific position in a string.
+On the front-end, your team will construct a React application that uses AJAX to communicate with the back-end app.
+
+***You will work in a group on this project***.
+
+> ❗️ As a reminder, General Assembly has a zero-plagiarism policy. ***Your project's code must be substantially your group's***. Do not copy code from similar projects or other sources. However, using code from the internet to accomplish generic tasks is okay - for example, a line of code that replaces a character at a specific position in a string.
+
+A printable version of the project requirements can be found [here](../project-requirements/assets/project-requirements.pdf).
 
 ## Technical requirements
 
 ### MVP
 
-> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your game must fulfill the below requirements.
+> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your group's project must fulfill the below requirements.
 
-- tktk Requirement here
-- tktk Requirement here
-- tktk Requirement here
-- The app is deployed online so that the rest of the world can use it!
+- The back-end application is built with Express and Node.
+- The front-end application is built with React.
+- The back-end and front-end applications implement JWT token-based authentication to sign up, sign in, and sign out users.
+- Authorization is implemented across the front-end and back-end. Guest users (those not signed in) should not be able to create, update, or delete data in the application or access functionality allowing those actions.
+- The project has at least one data entity for every member on your team, minus one in addition to the User model. For example, if you are on a team of three, the project must have at least 2 data entities in addition to the User model. If you are on a team of four, the project must have at least 3 data entities in addition to the user model. At least one entity must have a relationship with the User model.
+- The project has full CRUD functionality on both the back-end and front-end.
+- The front-end application does not hold any secret keys. Public APIs that require secret keys must be accessed from the back-end application.
+- The project is deployed online so that the rest of the world can use it!
 
 ### Code convention
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your game must fulfill the below requirements.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your group's project must fulfill the below requirements.
 
-- tktk Requirement here
-- tktk Requirement here
-- tktk Requirement here
-- The app can be used without encountering errors.
-- The code in the app adheres to coding conventions covered in lessons, like using plural names for arrays.
-- The app does not contain dead code, commented-out sections, or console logs.
-- The app is coded using proper indentation.
+- The files in the back-end and front-end applications are organized following the conventions demonstrated in lectures.
+- The code in the back-end and front-end applications adheres to the coding conventions demonstrated in lectures, like using plural names for arrays.
+- The back-end and front-end applications do not contain dead code, commented-out sections, or console logs.
+- The back-end application can be used without encountering errors in the terminal. The front-end application can be used without encountering errors in the browser's console.
+- The back-end application follows RESTful routing conventions for routes.
+- The back-end and front-end applications do not contain dead code, commented-out sections, or console logs.
+- The back-end and front-end applications are coded using proper indentation.
 
 ### UI/UX
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your game must fulfill the below requirements.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your group's front-end app must fulfill the below requirements.
 
-- tktk Requirement here
-- tktk Requirement here
-- tktk Requirement here
-- CSS Flexbox and/or Grid is used for page layout design.
-- Colors used on the site have appropriate contrast that meet the WCAG 2.0 level AA standard.
-- All images on the site have `alt` text.
+- The app exhibits a visual theme, like a consistent color palette and cohesive layout across pages.
+- The app is easily navigable by a first-time user. For example, navigation should be done through links instead of having to type in a URL to navigate around the app.
+- The app utilizes CSS Flexbox and/or Grid for page layout design.
+- Colors used in the app have appropriate contrast that meet the WCAG 2.0 level AA standard.
+- When editing an item, the form is pre-filled with that item's details.
+- Only the user who created a piece of data can see and interact with the UI for editing or deleting that data.
+- All images have `alt` text.
 - No text is placed on top of an image in a way that makes the text inaccessible.
+- All buttons are styled.
 
-### Git
+### Git and GitHub
 
-> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your interactions with Git and GitHub must fulfill the below requirements.
+> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your group's interactions with Git and GitHub must fulfill the below requirements.
 
-- tktk Requirement here
-- tktk Requirement here
-- tktk Requirement here
-- You are shown as the only contributor to the project on GitHub.
-- The GitHub repository used for the project is named appropriately (for example, **connect-four** as opposed to **browser-based-game-project**) and is publicly accessible. ***Be sure to create the repo on your personal GitHub account and ensure that it is public.***
-- **Your repo should have commits that date back to the very beginning of the project**. If you start over with a new repo, do not delete the old one. Your commit messages should be descriptive of the work done in that commit.
+- You and your team members are shown as the only contributors to the project on GitHub.
+- The GitHub repository used for the project must be named appropriately. For example, names like book-binder or wellness-tracker are appropriate, whereas ga-project or men-stack-project are not. The repo must be publicly accessible. ***Be sure to create the repo on your personal GitHub account and ensure it is public.***
+- **Your repo should have commits that date back to the very beginning of the project**. If your group start over with a new repo, do not delete the old one.
 
-## README Requirements
+## README requirements
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your README must contain the below requirements.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your group's README must contain the items or sections below.
 
-- Screenshot/Logo: A screenshot of your app or a logo.
-- Your app's title: Include a description of your app and its functionality. Background info about the app and why you built it is a nice touch.
-- Getting Started: Include a link to your deployed app. This should also contain a link to your planning materials.
-- Attributions (if applicable): Include links to any external resources (such as libraries or assets) you used to develop your application.
-- Technologies Used: List of the technologies used, for example: JavaScript and any major frameworks or libraries.
-- Next Steps: Planned future enhancements (stretch goals).
+Your front-end `README.md` file should contain the following:
 
-## Presentation Requirements
+- **Screenshot/Logo**: A screenshot of your app or a logo.
+- **Your app's name**: Include a description of your app and its functionality. Background info about the app and why your group built it is a nice touch.
+- **Getting started**: This section should include a link to your deployed app, a link to your planning materials, and a link to the back-end repository.
+- **Attributions**: This section should include links to any external resources (such as libraries or assets) your group used to develop your application that require attribution. You can exclude this section if it does not apply to your application.
+- **Technologies used**: List the principal technologies used by your application, for example: JavaScript and any major frameworks or libraries.
+- **Next steps**: Planned future enhancements (stretch goals).
+
+Your back-end `README.md` file should contain the following:
+
+- The name of the project and a link pointing to the front-end repository on GitHub for more details on the project
+
+## Presentation requirements
 
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them.
 
-- Present your project in front of the class on the scheduled presentation day.
+- Your group presents your project in front of the class on the scheduled presentation day.
 
-## Evaluation
+## Group evaluation
 
-Upon completion of your presentation, your instructional team will evaluate your project.
+Upon completion of your group's presentation, your instructional team will evaluate your group's project.
 
-- Your instructors will be using the above guidelines to determine whether or not the project passes all of the minimum requirements.
-- If your instructors determine that the project does not meet the minimum requirements, you may be provided the opportunity to address the deficiencies identified and re-submit the project. However, be aware that **there is only a single opportunity to re-submit a project during the course**. Please reach out to your student success specialist if you have questions.
-- Immediately after your presentation, your instructors may provide you with feedback that will benefit your project and perhaps the projects of other students. The feedback given at this time is not formal feedback and does not indicate whether you passed or failed the project.
-- If there is a specific section of code that you would like an instructor to provide additional feedback on, please ask!
+- Your instructors will use the above guidelines to determine whether or not the project passes all of the minimum requirements.
+- If your instructors determine that the project does not meet the minimum requirements, you or your group may be provided the opportunity to address the deficiencies identified and re-submit the project. However, be aware that **there is only a single opportunity to re-submit a project during the course**. Please reach out to your student success specialist if you have questions.
+- Immediately after your group's presentation, your instructors may provide your group with feedback that will benefit your project and perhaps other student's projects. The feedback given at this time is not formal feedback and does not indicate whether you or your group passed or failed the project.
+- If there is a specific section of code that you or your group would like an instructor to provide additional feedback on, please ask!
+
+## Individual evaluation
+
+In addition to the group evaluation, you will also be graded individually on this project based on the requirements outlined below. ***It is possible for your group as a whole to pass the project but for you to fail individually - do not let this happen!***
+
+tktk individual reqs
+
+### Git and GitHub
+
+- You have at least 4 substantial commits each day class meets after starting the project.
+- You have contributed a substantial amount of code to the project as determined by the following metrics:
+  - In a group of 2 you should have at least 40% of the commits across the project (excluding commits that exclusively merge code).
+  - In a group of 3 you should have at least 25% of the commits across the project (excluding commits that exclusively merge code).
+  - In a group of 4 you should have at least 15% of the commits across the project (excluding commits that exclusively merge code).
+- Do not artifically inflate your commit count by excessively commiting minor changes to the project.
+- You should have commits across the front-end and back-end applications.
+- Your commit messages should be descriptive of the work done in that commit.
+
+### Evaluation
+
+- Your instructors will use the above guidelines to determine whether or not you met the individual contributor requirements for this project.
+- If your instructors determine that you did not meet the minimum requirements, you may be provided the opportunity to address the deficiencies identified and re-submit the project. However, be aware that **there is only a single opportunity to re-submit a project during the course**. Please reach out to your student success specialist if you have questions.
