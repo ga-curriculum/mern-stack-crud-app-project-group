@@ -19,15 +19,11 @@ This project requires an understanding of:
 
 [Project Requirements](./project-requirements/README.md)
 
+[Project Individual Contributor Requirements](./project-individual-contributor-requirements/README.md)
+
 [Project Details](./project-details/README.md)
 
-[Project Planning Deliverable](./project-planning-deliverable/README.md)
-
-[Project GitHub Repo Link Deliverable - Front-end](./project-github-repo-link-deliverable-front-end/README.md)
-
-[Project GitHub Repo Link Deliverable - Back-end](./project-github-repo-link-deliverable-back-end/README.md)
-
-[Project Deployed App Link Deliverable](./project-deployed-app-link-deliverable/README.md)
+[Project Deliverables](./project-planning-deliverable/README.md)
 
 [Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
 
