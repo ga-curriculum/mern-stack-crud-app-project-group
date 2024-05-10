@@ -37,3 +37,7 @@ Continue working on your project until presentation day.
 ## 5. Present your project
 
 Project week ends with a presentation of your project!
+
+## 6. Fork the project
+
+After you've completed the project, create a fork of it so that you have your own copy.

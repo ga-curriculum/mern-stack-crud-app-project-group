@@ -24,7 +24,7 @@ A printable version of the project requirements can be found [here](../project-r
 - The front-end application is built with React.
 - The back-end and front-end applications implement JWT token-based authentication to sign up, sign in, and sign out users.
 - Authorization is implemented across the front-end and back-end. Guest users (those not signed in) should not be able to create, update, or delete data in the application or access functionality allowing those actions.
-- The project has at least one data entity for every member on your team, minus one in addition to the User model. For example, if you are on a team of three, the project must have at least 2 data entities in addition to the User model. If you are on a team of four, the project must have at least 3 data entities in addition to the user model. At least one entity must have a relationship with the User model.
+- The project has at least two data entities in addition to the User model. At least one entity must have a relationship with the User model.
 - The project has full CRUD functionality on both the back-end and front-end.
 - The front-end application does not hold any secret keys. Public APIs that require secret keys must be accessed from the back-end application.
 - The project is deployed online so that the rest of the world can use it!
@@ -60,7 +60,7 @@ A printable version of the project requirements can be found [here](../project-r
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your group's interactions with Git and GitHub must fulfill the below requirements.
 
 - You and your team members are shown as the only contributors to the project on GitHub.
-- The GitHub repository used for the project must be named appropriately. For example, names like book-binder or wellness-tracker are appropriate, whereas ga-project or men-stack-project are not. The repo must be publicly accessible. ***Be sure to create the repo on your personal GitHub account and ensure it is public.***
+- The GitHub repository used for the project must be named appropriately. For example, names like book-binder-back-end or wellness-tracker-front-end are appropriate, whereas ga-project or men-stack-project are not. The repo must be publicly accessible. ***Be sure to create the repos on your personal GitHub account and ensure it is public.***
 - **Your repo should have commits that date back to the very beginning of the project**. If your group start over with a new repo, do not delete the old one.
 
 ## README requirements
@@ -97,22 +97,24 @@ Upon completion of your group's presentation, your instructional team will evalu
 
 ## Individual evaluation
 
-In addition to the group evaluation, you will also be graded individually on this project based on the requirements outlined below. ***It is possible for your group as a whole to pass the project but for you to fail individually - do not let this happen!***
-
-tktk individual reqs
+In addition to the group evaluation, you will also be graded individually on this project based on the requirements outlined below. ***It is possible for your group as a whole to pass the project but for you not to pass individually - do not let this happen!***
 
 ### Git and GitHub
 
-- You have at least 4 substantial commits each day class meets after starting the project.
-- You have contributed a substantial amount of code to the project as determined by the following metrics:
-  - In a group of 2 you should have at least 40% of the commits across the project (excluding commits that exclusively merge code).
-  - In a group of 3 you should have at least 25% of the commits across the project (excluding commits that exclusively merge code).
-  - In a group of 4 you should have at least 15% of the commits across the project (excluding commits that exclusively merge code).
-- Do not artifically inflate your commit count by excessively commiting minor changes to the project.
+> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your interactions with Git and GitHub must fulfill the below requirements.
+
+- It should be apparent that you were a significant contributor to this project by reviewing the analytics that track commit count and lines modified in a repository in GitHub.
+- Do not artificially inflate your commit count by excessively committing minor changes to the project.
 - You should have commits across the front-end and back-end applications.
 - Your commit messages should be descriptive of the work done in that commit.
 
+### Presentation
+
+> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them.
+
+- You must contribute to your group's presentation by demonstrating a feature you built during project week.
+
 ### Evaluation
 
-- Your instructors will use the above guidelines to determine whether or not you met the individual contributor requirements for this project.
+- Your instructors will use the above guidelines to determine whether you met this project's individual contributor requirements.
 - If your instructors determine that you did not meet the minimum requirements, you may be provided the opportunity to address the deficiencies identified and re-submit the project. However, be aware that **there is only a single opportunity to re-submit a project during the course**. Please reach out to your student success specialist if you have questions.
