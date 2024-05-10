@@ -4,7 +4,7 @@
 
 In addition to the group evaluation, you will also be graded individually on this project based on the requirements outlined below. ***It is possible for your group as a whole to pass the project but for you not to pass individually - do not let this happen!***
 
-A printable version of the project requirements can be found [here](../project-requirements/assets/project-requirements.pdf).
+A printable version of the project requirements can be found [here](./assets/project-ic-requirements.pdf).
 
 ### Git and GitHub
 
