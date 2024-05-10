@@ -23,7 +23,7 @@ This project requires an understanding of:
 
 [Project Details](./project-details/README.md)
 
-[Project Deliverables](./project-planning-deliverable/README.md)
+[Project Deliverables](./project-deliverables/README.md)
 
 [Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
 
