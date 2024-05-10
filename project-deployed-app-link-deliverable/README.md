@@ -1,7 +1,5 @@
 # ![MERN Stack CRUD App Project - Group Project Deployed App Link Deliverable](./assets/hero.png)
 
-> 🚨 ***Note for the maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content in Canvas, which is intended to potentially be edited by instructors.
-
 ## Introduction
 
 During project week, you'll deploy your project so that others are able to use it on the internet! You will need to deploy your back-end and front-end applications separately.

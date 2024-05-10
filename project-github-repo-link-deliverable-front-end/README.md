@@ -1,7 +1,5 @@
 # ![MERN Stack CRUD App Project - Group Project GitHub Repo Link Deliverable](./assets/hero.png)
 
-> 🚨 ***Note for the maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content in Canvas, which is intended to potentially be edited by instructors.
-
 ## Introduction
 
 After your project proposal has been approved, you'll need to set up a GitHub repo for the front-end of your project.

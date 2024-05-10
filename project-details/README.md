@@ -1,7 +1,5 @@
 # ![MERN Stack CRUD App Project - Group Project Details](./assets/hero.png)
 
-> 🚨 ***Note for the maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content in Canvas, which is intended to potentially be edited by instructors.
-
 ## Notes and guidance
 
 ### Project recommendations
