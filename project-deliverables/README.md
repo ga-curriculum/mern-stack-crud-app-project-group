@@ -2,6 +2,18 @@
 
 ## Contents
 
+**Deliverable details**:
+
+- [Project planning deliverables](#project-planning-deliverable)
+
+- [GitHub repo deliverables](#github-repo-deliverables)
+
+- [Deployed app link deliverable](#deployed-app-link-deliverable)
+
+**Submitting deliverables**:
+
+- [Submitting your deliverables](#submitting-your-deliverables)
+
 ## Project planning deliverable
 
 ### Introduction
