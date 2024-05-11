@@ -4,15 +4,13 @@
 
 **Deliverable details**:
 
-- [Project planning deliverables](#project-planning-deliverable)
-
-- [GitHub repo deliverables](#github-repo-deliverables)
-
-- [Deployed app link deliverable](#deployed-app-link-deliverable)
+- Project planning deliverables
+- GitHub repo deliverables
+- Deployed app link deliverable
 
 **Submitting deliverables**:
 
-- [Submitting your deliverables](#submitting-your-deliverables)
+- Submitting your deliverables
 
 ## Project planning deliverable
 
