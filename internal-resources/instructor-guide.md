@@ -7,16 +7,22 @@ There are two tracks you may take for this project depending on your preferences
 This is the repo for the group version and includes:
 
 - MERN Stack CRUD App Group Project Journey
-- MERN Stack CRUD App Group Project Details
-- MERN Stack CRUD App Group Project Deliverables (students submit links to project planning materials, a front-end and back-end GitHub repo, and a deployed app throughout project week)
 - MERN Stack CRUD App Group Project Requirements
 - MERN Stack CRUD App Group Project Individual Contributor Requirements
+- MERN Stack CRUD App Group Project Details
+- MERN Stack CRUD App Group Project Deliverables (students submit links to project planning materials, a front-end and back-end GitHub repo, and a deployed app throughout project week)
+- MERN Stack CRUD App Group Project Feedback [in Canvas only]
+- MERN Stack CRUD App Group Project Individual Contributor Feedback [in Canvas only]
 
 ## How to use group project content
 
 Students should be presented with and held to the standards of both the project requirements as a group and the individual contributor requirements individually.
 
 A group may pass their project as a whole, but individuals within that group may fail. This helps to ensure individuals in a group are not just motivated to deliver a project that meets the requirements, but also to be meaningful contributors to the project as a whole.
+
+### Group deliverables
+
+Only one person per group needs to submit deliverables into the Project Delverables assignment in Canvas. To enable this, you will need to use Canvas to construct an assignment group for this project. Use the same groups for project feedback rubric as well. All students will receive individual feedback through the the project individual contributor feedback rubric.
 
 ## Notes for maintainers
 
