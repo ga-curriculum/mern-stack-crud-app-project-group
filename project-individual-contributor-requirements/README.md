@@ -21,7 +21,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 - You must contribute to your group's presentation by demonstrating a feature you built during project week.
 
-### Evaluation
+## Individual contributor evaluation
 
 - Your instructors will use the above guidelines to determine whether you met this project's individual contributor requirements.
 - If your instructors determine that you did not meet the minimum requirements, you may be provided the opportunity to address the deficiencies identified and re-submit the project. However, be aware that **there is only a single opportunity to re-submit a project during the course**. Please reach out to your student success specialist if you have questions.
