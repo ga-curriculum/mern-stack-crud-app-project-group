@@ -24,7 +24,7 @@ Once your team's project proposal is approved, create the public GitHub repo tha
 
 ## 3. Build the project
 
-The fun part! Your team start building your project!
+The fun part! Your team starts building your project!
 
 ## 4. Deploy the work you have so far
 
