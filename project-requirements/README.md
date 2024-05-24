@@ -12,7 +12,7 @@ On the front-end, your team will construct a React application that uses AJAX to
 
 > ❗️ As a reminder, General Assembly has a zero-plagiarism policy. ***Your project's code must be substantially your group's***. Do not copy code from similar projects or other sources. However, using code from the internet to accomplish generic tasks is okay - for example, a line of code that replaces a character at a specific position in a string.
 
-A printable version of the project requirements can be found [here](../project-requirements/assets/project-requirements.pdf).
+A printable version of the project requirements can be found [here](./assets/project-requirements.pdf).
 
 ## Technical requirements
 
@@ -61,7 +61,7 @@ A printable version of the project requirements can be found [here](../project-r
 
 - You and your team members are shown as the only contributors to the project on GitHub.
 - The GitHub repository used for the project must be named appropriately. For example, names like book-binder-back-end or wellness-tracker-front-end are appropriate, whereas ga-project or men-stack-project are not. The repo must be publicly accessible. ***Be sure to create the repos on your personal GitHub account and ensure it is public.***
-- **Your repo should have commits that date back to the very beginning of the project**. If your group start over with a new repo, do not delete the old one.
+- **Your repo should have commits that date back to the very beginning of the project**. If your group starts over with a new repo, do not delete the old one.
 
 ## README requirements
 
@@ -97,26 +97,6 @@ Upon completion of your group's presentation, your instructional team will evalu
 
 ## Individual contributor requirements
 
-In addition to the group evaluation, you will also be graded individually on this project based on the requirements outlined below. ***It is possible for your group as a whole to pass the project but for you not to pass individually - do not let this happen!***
+In addition to the group evaluation, you will also be graded individually on this project. ***It is possible for your group as a whole to pass the project but for you not to pass individually - do not let this happen!***
 
-A printable version of the project requirements can be found [here](../project-requirements/assets/project-requirements.pdf).
-
-### Git and GitHub
-
-> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your interactions with Git and GitHub must fulfill the below requirements.
-
-- It should be apparent that you were a significant contributor to this project by reviewing the analytics that track commit count and lines modified in a repository in GitHub.
-- Do not artificially inflate your commit count by excessively committing minor changes to the project.
-- You should have commits across the front-end and back-end applications.
-- Your commit messages should be descriptive of the work done in that commit.
-
-### Presentation
-
-> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them.
-
-- You must contribute to your group's presentation by demonstrating a feature you built during project week.
-
-### Evaluation
-
-- Your instructors will use the above guidelines to determine whether you met this project's individual contributor requirements.
-- If your instructors determine that you did not meet the minimum requirements, you may be provided the opportunity to address the deficiencies identified and re-submit the project. However, be aware that **there is only a single opportunity to re-submit a project during the course**. Please reach out to your student success specialist if you have questions.
+See the [individual contributor project requirements](../project-requirements/README.md) for more details about the individual requirements.

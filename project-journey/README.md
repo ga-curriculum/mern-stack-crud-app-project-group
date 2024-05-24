@@ -1,8 +1,8 @@
 # ![MERN Stack CRUD App Project - Group Project Journey](./assets/hero.png)
 
-Project week is when students typically learn the most. During this week you'll have fewer lectures and deliverables that are not related to your project. Instead, you'll primarily be self-directed to plan, build, and complete your project.
+Project week is when students typically learn the most. During this week you'll have fewer lectures and deliverables that are not related to your project. Instead, you'll primarily be self-directed to plan, build, and complete your project with your team.
 
-Your team need to submit some key deliverables along the way to keep you on track. Finally, at the end of project week you'll present your completed project to the class.
+Your team will need to submit some key deliverables along the way to keep on track. Finally, at the end of project week your entire team will present your completed project to the class.
 
 To help you through this process, we've included this guide to walk you through the individual steps outlined below (and shown above) so that you can be sure you're not missing anything along the way.
 
@@ -10,7 +10,11 @@ To help you through this process, we've included this guide to walk you through 
 
 ## Project info
 
-Before you start planning, review the [Project Requirements](../project-requirements/README.md) to understand what features your team must implement in your project. Then, review the [Project Details](../project-details/README.md), which includes helpful tips to get started.
+Before your team starts planning, review the [project requirements](../project-requirements/README.md) together to ensure everyone on the team understands what features must be implemented in your project. Then, review the [Project Details](../project-details/README.md), which includes helpful tips to get started.
+
+In addition to the group evaluation, you will also be graded individually on this project. ***It is possible for your group as a whole to pass the project but for you not to pass individually - do not let this happen!***
+
+See the [individual contributor project requirements](../project-individual-contributor-requirements/README.md) for more details about the individual requirements.
 
 ## 1. Project planning
 
