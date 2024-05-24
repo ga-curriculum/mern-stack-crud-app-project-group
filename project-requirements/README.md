@@ -38,7 +38,6 @@ A printable version of the project requirements can be found [here](./assets/pro
 - The back-end and front-end applications do not contain dead code, commented-out sections, or console logs.
 - The back-end application can be used without encountering errors in the terminal. The front-end application can be used without encountering errors in the browser's console.
 - The back-end application follows RESTful routing conventions for routes.
-- The back-end and front-end applications do not contain dead code, commented-out sections, or console logs.
 - The back-end and front-end applications are coded using proper indentation.
 
 ### UI/UX
