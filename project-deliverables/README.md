@@ -4,7 +4,7 @@
 
 **Deliverable details**:
 
-- Project planning deliverables
+- Project planning deliverable
 - GitHub repo deliverables
 - Deployed app link deliverable
 
@@ -14,19 +14,17 @@
 
 ## Project planning deliverable
 
-### Introduction
-
-Planning is vital to build anything more than the most trivial of applications; therefore, this is where you will begin your journey with this project. You shouldn't write any code or set up a GitHub repo for your project until an instructor approves your planning materials.
+Planning is vital to build anything more than the most trivial of applications; therefore, this is where your group will begin its journey with this project. You shouldn't write any code or set up a GitHub repo for your project until an instructor approves your planning materials.
 
 ### Building your planning materials
 
-Use [Trello](https://trello.com/) for your project planning work. This [video](https://www.youtube.com/watch?v=l3F3l3psqXY) has some helpful tips to get started using Trello if you've never used it before. Check out this [Trello support article](https://support.atlassian.com/trello/docs/changing-the-visibility-of-a-board/) to make your planning materials publicly available.
+Use [Trello](https://trello.com/) for your team's project planning work. This [video](https://www.youtube.com/watch?v=l3F3l3psqXY) has some helpful tips to get started using Trello if you've never used it before. Check out this [Trello support article](https://support.atlassian.com/trello/docs/changing-the-visibility-of-a-board/) to make your planning materials publicly available.
 
 > 🚨 ***It is vital that you make your project planning publicly accessible; otherwise, no one can see it! Check out this [Trello support article](https://support.atlassian.com/trello/docs/changing-the-visibility-of-a-board/) to learn how!***
 
 ### Details
 
-You will submit a public Trello board with these project planning details:
+Your group will submit a public Trello board with these project planning details:
 
 - MVP user stories, written in the following template: **As a [user role], I want [feature], so that [reason].** If the reason is obvious, it can be excluded.
 - Wireframes for your app's main pages. For example, if you were building a blogging app, you might have wireframes for a landing page, the posts index page, and the add post page.
@@ -46,17 +44,17 @@ An example of an acceptable Trello board submission is shown here:
 
 ### Using Trello during project week
 
-Some students like to use Trello during project week to keep track of their work. While you're more than welcome to do this, it is not a project requirement, and the method you use to organize your work is ultimately up to you!
+Some groups like to use Trello during project week to keep track of their work. While you're more than welcome to do this, it is not a project requirement, and the method you use to organize your work is ultimately up to you!
 
 ## GitHub repo deliverables
 
-After your project proposal has been approved, you'll need to set up a GitHub repo for the front-end and back-end of your project.
+After your project proposal has been approved, your team will need to designate someone to set up the main GitHub repo for the front-end and back-end of your project.
 
 > 🚨 As a reminder, you should use the same repo or keep all the repos you use for the entire duration of your project to meet the project requirements.
 
 ## Deployed app link deliverable
 
-During project week, you'll deploy your project so that others are able to use it on the internet! You will need to deploy your back-end and front-end applications separately.
+During project week, your team will deploy the project so that others are able to use it on the internet! The back-end and front-end applications will be deployed separately.
 
 Follow the [MEN Stack Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/men-stack-deployment/) to deploy your back-end MEN Stack application.
 
@@ -64,11 +62,11 @@ Follow the [React Front-End Deployment guide](https://pages.git.generalassemb.ly
 
 ## Submitting your deliverables
 
-Follow the guidelines below to submit your deliverables for this project.
+Follow the guidelines below to submit your teams deliverables for this project.
 
 ### Submitting your planning materials
 
-Submit a link to your ***publicly visible*** Trello board below in the following format:
+Your team will submit a single link to your ***publicly visible*** Trello board below in the following format:
 
 ```plaintext
 Project planning link: <link>
@@ -78,7 +76,7 @@ Replacing `<link>` (including the `<` and `>`) with a link to your project plann
 
 ### Submitting your GitHub repo links
 
-Submit a link to the ***public*** GitHub repos that you are using for the front-end and back-end of your MERN Stack CRUD App Project below in the following format:
+Your team will submit a single link to the main ***public*** GitHub repos that you are using for the front-end and back-end of your MERN Stack CRUD App Project below in the following format:
 
 ```plaintext
 Front-end GitHub repo link: <link>
@@ -89,7 +87,7 @@ Replacing `<link>` (including the `<` and `>`) with a link to your front-end and
 
 ### Submitting your deployed app link
 
-Deploy your project by following the guides above. Submit a link to your deployed front-end app below in the following format:
+Deploy your project by following the guides above. Your team will submit a single link to your deployed front-end app below in the following format:
 
 ```plaintext
 Deployed project link: <link>
