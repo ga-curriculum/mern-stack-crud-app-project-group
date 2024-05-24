@@ -62,7 +62,7 @@ Follow the [React Front-End Deployment guide](https://pages.git.generalassemb.ly
 
 ## Submitting your deliverables
 
-Follow the guidelines below to submit your teams deliverables for this project.
+Follow the guidelines below to submit your team's deliverables for this project.
 
 ### Submitting your planning materials
 
