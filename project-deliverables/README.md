@@ -48,7 +48,7 @@ Some groups like to use Trello during project week to keep track of their work. 
 
 ## GitHub repo deliverables
 
-After your project proposal has been approved, your team will need to designate someone to set up the main GitHub repo for the front-end and back-end of your project.
+After your project proposal has been approved, your team will need to designate someone to set up the two main GitHub repos for your project - one for the front-end and another for the back-end.
 
 > 🚨 As a reminder, you should use the same repo or keep all the repos you use for the entire duration of your project to meet the project requirements.
 
