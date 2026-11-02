@@ -2,7 +2,7 @@
 
 ## About
 
-# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER FEB 1, 2025. You are likely looking for [this repo](https://git.generalassemb.ly/modular-curriculum-all-courses/mern-stack-crud-app-group-project) instead.
+# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER FEB 1, 2025. You are likely looking for [this repo](https://github.com/ga-curriculum/mern-stack-crud-app-group-project) instead.
 
 In this project, students will gain experience working across the full-stack, building both front-end and back-end applications. They will create an authenticated back-end API allowing for full CRUD utilizing Node/Express/MongoDB. They'll also construct a front-end React application capable of interacting with that API through AJAX requrest..
 
