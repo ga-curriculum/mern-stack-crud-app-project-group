@@ -56,9 +56,9 @@ After your project proposal has been approved, your team will need to designate 
 
 During project week, your team will deploy the project so that others are able to use it on the internet! The back-end and front-end applications will be deployed separately.
 
-Follow the [MEN Stack Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/men-stack-deployment/) to deploy your back-end MEN Stack application.
+Follow the [MEN Stack Deployment guide](https://ga-curriculum.github.io/universal-resources/deployment/men-stack-deployment/) to deploy your back-end MEN Stack application.
 
-Follow the [React Front-End Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/react-front-end-deployment/) to deploy your front-end React application.
+Follow the [React Front-End Deployment guide](https://ga-curriculum.github.io/universal-resources/deployment/react-front-end-deployment/) to deploy your front-end React application.
 
 ## Submitting your deliverables
 
